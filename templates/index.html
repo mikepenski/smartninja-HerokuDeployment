@@ -1,0 +1,202 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section id="header-slider">
+
+    <div class="slider">
+
+            <article class="slide">
+
+                    <div class="container h-100">
+
+                        <div class="row h-100">
+
+                            <div class="col-lg-8 align-self-center mx-auto text-left content">
+
+                                <h1 class="headline">Web Development</h1>
+
+                                <p>
+                                Ich bin professioneller Webdesigner & Programmierer aus Düsseldorf
+                                </p>
+
+                                <a href="/kontakt" class="btn btn-primary">Jetzt kontaktieren</a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+              <video loop="" playsinline="" muted="" autoplay="" preload="none">
+                    <source src="{{ url_for('static', filename='videos/moodvideo.mp4') }}" type="video/mp4">
+                    <source src="{{ url_for('static', filename='videos/moodvideo.webm') }}" type="video/webm">
+                   <img src="{{ url_for('static', filename='images/slide-1-web.jpg') }}" />
+                </video>
+
+            </article>
+
+    </div>
+
+    <div class="slider-shape-divider">
+        <svg height="150" preserveAspectRatio="none" viewBox="0 0 1450 160" width="1450" xmlns="http://www.w3.org/2000/svg" class="reflect"><path d="M0 160V0c552.762 0 829.144 157.977 1450 157.977V160z" fill="#fff" /></svg>
+    </div>
+
+</section>
+
+ <section id="about" class="py-5 py-lg-7">
+       <div class="container">
+           <div class="text-center">
+                   <h2 class="headline">About</h2>
+                   <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                   </p>
+            </div>
+       </div>
+    </section>
+
+    <section id="beratung" class="py-lg-7">
+       <div class="container">
+           <div class="row align-items-center">
+               <div class="col-md-6 order-2 order-md-1 contentblock pl-5">
+                   <div class="inner">
+                     <div class="number number-1">1</div>
+                       <h3 class="headline">Lorem Ipsum</h3>
+                       <p>
+                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                       </p>
+                   </div>
+
+           </div>
+           <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0 img-background-right bg-gray">
+                   <img src="{{ url_for('static', filename='images/beratung.jpg') }}" />
+           </div>
+           </div>
+       </div>
+    </section>
+
+     <section id="leistungen" class="py-lg-7">
+           <div class="container">
+               <div class="row align-items-center">
+                   <div class="col-md-6 mb-4 mb-md-0 img-background-left bg-gray">
+                      <img src="{{ url_for('static', filename='images/beratung.jpg') }}" />
+                   </div>
+                   <div class="col-md-6 contentblock">
+                           <div class="inner">
+                                <div class="number number-2">2</div>
+                                <h3 class="headline">Lorem Ipsum</h3>
+                                <p>
+                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                                </p>
+                           </div>
+                   </div>
+               </div>
+           </div>
+        </section>
+
+    <section id="shops" class="py-lg-7">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6 order-2 order-md-1 contentblock pl-5">
+                    <div class="inner">
+                        <div class="number number-3">3</div>
+                        <h3 class="headline">Lorem Ipsum</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0 img-background-right bg-gray">
+                    <img src="{{ url_for('static', filename='images/beratung.jpg') }}" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+<section id="portfolio" class="py-lg-small">
+    <div class="row">
+
+        <div class="col-lg-6 item">
+            <a class="item mb-4 d-block odd" href="/work" style="opacity: 1;">
+                <div class="row no-gutters">
+                    <div class="item-image col-md-6 col-lg-12 col-xl-6 order-md-1 order-lg-1 order-xl-1">
+                        <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="attachment-panel-square size-panel-square" alt="flyer">
+                    </div>
+                    <div class="category-info col-md-6 col-lg-12 col-xl-6 p-5 order-md-12 order-lg-12 order-xl-12" style="opacity: 1;">
+                        <h4>Beispiel Projekt</h4>
+                        <p>Hier steht der Info Text</p>
+                        <i class="icon-arrow-circle-right"></i>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+          <div class="col-lg-6">
+            <a class="item mb-4 d-block odd" href="/work" style="opacity: 1;">
+                <div class="row no-gutters">
+                    <div class="item-image col-md-6 col-lg-12 col-xl-6 order-md-1 order-lg-1 order-xl-1">
+                        <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="attachment-panel-square size-panel-square" alt="flyer">
+                    </div>
+                    <div class="item-info col-md-6 col-lg-12 col-xl-6 p-5 order-md-12 order-lg-12 order-xl-12" style="opacity: 1;">
+                        <h4>Beispiel Projekt 2</h4>
+                        <p>Hier steht der Info Text</p>
+                        <i class="icon-arrow-circle-right"></i>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    </div>
+</section>
+
+<section id="work">
+    <div class="container">
+
+        <div class="text-center py-5">
+            <h3 class="headline">Work</h3>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-1">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 1</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-2">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 2</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-3">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 3</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="projekt projekt-4">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 4</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center py-5">
+            <a href="work.html" class="btn btn-primary px-4">Mehr anschauen</a>
+        </div>
+
+    </div>
+</section>
+
+{% endblock content %}
+

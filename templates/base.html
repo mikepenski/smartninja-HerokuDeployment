@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <title>Mike Penski | Web Development</title>
+</head>
+
+<body class="base-template">
+
+    <div id="page-wrapper">
+
+        {% include "Structural_Components/header.html" %}
+
+            {% block content %}
+            {% endblock content %}
+
+        {% include "Structural_Components/footer.html" %}
+
+    </div>
+
+</body>
+</html>
+

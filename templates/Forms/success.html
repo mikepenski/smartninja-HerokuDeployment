@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section id="header-slider">
+
+    <div class="slider">
+
+        <article class="slide">
+
+            <div class="container h-100">
+
+                <div class="row h-100">
+
+                    <div class="col-lg-8 align-self-center mx-auto text-left content">
+
+                        <h1 class="headline">Kontakt</h1>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr,<br>
+                            sed diam nonumy eirmod tempor invidunt ut labore et dolore
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <img src="{{ url_for('static', filename='images/header-contact.jpg') }}" />
+
+        </article>
+
+    </div>
+
+    <div class="slider-shape-divider">
+        <svg height="150" preserveAspectRatio="none" viewBox="0 0 1450 160" width="1450" xmlns="http://www.w3.org/2000/svg" class="reflect"><path d="M0 160V0c552.762 0 829.144 157.977 1450 157.977V160z" fill="#fff" /></svg>
+    </div>
+
+</section>
+
+<section id="contact" class="py-lg-7">
+    <div class="container">
+       <div class="row">
+
+           <div class="col-md-7 mt-5 mt-md-0">
+                  <div id="success-message">
+               <h2 class="headline mb-4">Erfolgreich!</h2>
+            <p>Ihre Nachricht wurde erfolgreicht versendet. Vielen Dank!</p>
+               </div>
+           </div>
+
+           <div class="col-md-4 offset-md-1 my-5 my-md-0">
+               <h2 class="headline">Kontakt</h2>
+               <p>
+                   Mike Penski<br>
+                   Webdesign &amp; Programmierung<br>
+                   Horremer Straße 13,<br>
+                   41470 Neuss
+               </p>
+                <p>
+                    <strong>Telefon:</strong><br>
+                   <a href="tel:+4912345"><span itemprop="telephone">02131 123456</span></a>
+                </p>
+                <p>
+                    <strong>E-Mail:</strong><br>
+                   <a href="mailto:kontakt@mikepenski.de"><span itemprop="email">kontakt@mikepenski.de</span></a>
+                </p>
+           </div>
+       </div>
+    </div>
+</section>
+
+{% endblock content %}
+

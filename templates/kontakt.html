@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section id="header-slider">
+
+    <div class="slider">
+
+        <article class="slide">
+
+            <div class="container h-100">
+
+                <div class="row h-100">
+
+                    <div class="col-lg-8 align-self-center mx-auto text-left content">
+
+                        <h1 class="headline">Kontakt</h1>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr,<br>
+                            sed diam nonumy eirmod tempor invidunt ut labore et dolore
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <img src="{{ url_for('static', filename='images/header-contact.jpg') }}" />
+
+        </article>
+
+    </div>
+
+    <div class="slider-shape-divider">
+        <svg height="150" preserveAspectRatio="none" viewBox="0 0 1450 160" width="1450" xmlns="http://www.w3.org/2000/svg" class="reflect"><path d="M0 160V0c552.762 0 829.144 157.977 1450 157.977V160z" fill="#fff" /></svg>
+    </div>
+
+</section>
+
+<section id="contact" class="py-lg-7">
+    <div class="container">
+       <div class="row">
+
+           <div class="col-md-7 mt-5 mt-md-0">
+               <h2 class="headline mb-4">Sie sind interessiert?</h2>
+               <p>
+                   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+               </p>
+
+               <form id="contact-form" action="/kontakt" method="post">
+                   <div class="row">
+                   <div class="col-sm-12">
+                       <div class="input-group">
+                       <input type="text" name="contact_betreff" id="contact_betreff" required="" class="form-control" value="">
+                       <label for="contact_betreff">Betreff</label>
+                    </div>
+               </div>
+               </div>
+                   <div class="row">
+                       <div class="col-sm-6">
+                           <div class="input-group">
+                               <input type="text" name="contact_name" id="contact_name" required="" class="form-control" value="">
+                               <label for="contact_name">Name</label>
+                           </div>
+                       </div>
+               <div class="col-sm-6">
+                   <div class="input-group">
+                       <input type="email" name="contact_email" id="contact_email" required="" class="form-control" value="">
+                       <label for="contact_email">E-Mail</label>
+                   </div>
+               </div>
+                   </div>
+                   <div class="row">
+                       <div class="col-sm-12">
+                           <div class="input-group">
+                               <textarea rows="1" name="contact_message" id="contact_message" required="" class="form-control"></textarea>
+                               <label for="contact_message">Nachricht</label>
+                           </div>
+                       </div>
+                   </div>
+               <div class="row">
+                   <div class="col-sm-12">
+                       <div class="form-group">
+                           <label for="contact_datenschutz">
+                              <input type="checkbox" name="contact_datenschutz" id="contact_datenschutz" value="Datenschutz akzeptiert ">
+                               <span>Ich habe die <a href="/datenschutz">Datenschutzerklärung</a> zur Kenntnis genommen und stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden.</span>
+                           </label>
+                       </div>
+                   </div>
+           </div>
+                   <button type="submit" name="submit" class="btn btn-primary btn-lg"><span>Nachricht senden</span></button>
+           </form>
+           </div>
+
+           <div class="col-md-4 offset-md-1 my-5 my-md-0">
+               <h2 class="headline">Kontakt</h2>
+               <p>
+                   Mike Penski<br>
+                   Webdesign &amp; Programmierung<br>
+                   Horremer Straße 13,<br>
+                   41470 Neuss
+               </p>
+                <p>
+                    <strong>Telefon:</strong><br>
+                   <a href="tel:+4912345"><span itemprop="telephone">02131 123456</span></a>
+                </p>
+                <p>
+                    <strong>E-Mail:</strong><br>
+                   <a href="mailto:kontakt@mikepenski.de"><span itemprop="email">kontakt@mikepenski.de</span></a>
+                </p>
+           </div>
+       </div>
+    </div>
+</section>
+
+{% endblock content %}

@@ -1,0 +1,30 @@
+<footer id="footer" class="py-5">
+
+    <div class="footer-shape-divider">
+        <svg height="150" preserveAspectRatio="none" viewBox="0 0 1450 160" width="1450" xmlns="http://www.w3.org/2000/svg" class="reflect"><path d="M0 160V0c552.762 0 829.144 157.977 1450 157.977V160z" fill="#000" /></svg>
+    </div>
+
+    <div class="container">
+        <ul class="footer-nav">
+            <li><a href="impressum">Impressum</a></li> |
+            <li><a href="datenschutz">Datenschutz</a></li>
+        </ul>
+        <div class="footer-text">
+            © 2019 Mike Penski - Web Development
+        </div>
+    </div>
+
+    <!-- Scripts -->
+
+    <script src="{{ url_for('static', filename='js/jquery-3.3.1.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/slick.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/aos.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+
+    <script>
+        AOS.init();
+    </script>
+
+
+</footer>

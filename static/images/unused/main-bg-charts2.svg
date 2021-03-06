@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1598px" height="519px" viewBox="0 0 1598 519" enable-background="new 0 0 1598 519" xml:space="preserve">
+<title>main-bg-charts</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="main-bg-charts" transform="translate(0.000000, -1.000000)">
+		<g id="Group-16">
+			<g id="Mask" opacity="0.1">
+				<path id="path-1_1_" fill="#00A881" d="M1597.302,1.908c-15.181,1.638-40.803,5.17-69.867,13.538
+					c-117.942,38.221-155.942,114.221-201.274,144.887C1196.898,247.779,1079.167,153.119,986.5,188
+					c-96.294,36.245-123.54,88.897-171.405,103.589C775.04,303.883,714.444,277.886,647.5,291
+					c-55.333,16.667-61.57,45.136-120.667,62c-94.452,26.951-172.65-25.165-227.333-9.5c-41.935,12.013-67.988,73.706-147,94
+					C98.34,451.413,37.5,413,0,396.5V520h1597.303V1.908L1597.302,1.908z"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="89" y="-41" width="1421" height="561">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="89" y="-41" width="1421" height="561" id="mask-2">
+				<g filter="url(#Adobe_OpacityMaskFilter)">
+					<path id="path-1" fill="#FFFFFF" d="M1597.302,1.908c-15.181,1.638-40.803,5.17-69.867,13.538
+						c-125.054,36.007-121.135,106.079-208.77,140.332c-118.315,46.244-221.986-43.751-345.808,2.857
+						c-96.294,36.245-84.857,109.968-180.738,123.081c-57.23,7.825-82.704-15.514-149.648-2.399
+						c-62.034,12.151-59.146,35.91-118.242,52.774c-94.452,26.951-144.516-21.552-229.092,2.639
+						c-76.172,21.786-68.792,70.62-147.804,90.914C93.174,439.558,36.854,430.184,0,421.088V520h1597.303V1.908L1597.302,1.908z"/>
+				</g>
+			</mask>
+			<g display="none" mask="url(#mask-2)">
+				<g transform="translate(89.000000, -41.000000)" display="inline">
+					<g>
+						
+							<linearGradient id="Rectangle-1384_17_" gradientUnits="userSpaceOnUse" x1="-478.3005" y1="601.4299" x2="-478.3005" y2="600.9456" gradientTransform="matrix(2 0 0 -561 957.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384" x="0" y="0" fill="url(#Rectangle-1384_17_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_18_" gradientUnits="userSpaceOnUse" x1="-478.3005" y1="601.4299" x2="-478.3005" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1045.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_1_" x="88" y="0" fill="url(#Rectangle-1384_18_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_19_" gradientUnits="userSpaceOnUse" x1="-478.3005" y1="601.4299" x2="-478.3005" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1133.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_2_" x="176" y="0" fill="url(#Rectangle-1384_19_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_20_" gradientUnits="userSpaceOnUse" x1="-478.3005" y1="601.4299" x2="-478.3005" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1221.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_3_" x="264" y="0" fill="url(#Rectangle-1384_20_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_21_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1309.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_4_" x="352" y="0" fill="url(#Rectangle-1384_21_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_22_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1397.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_5_" x="440" y="0" fill="url(#Rectangle-1384_22_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_23_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1485.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_6_" x="528" y="0" fill="url(#Rectangle-1384_23_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_24_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1573.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_7_" x="616" y="0" fill="url(#Rectangle-1384_24_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_25_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1661.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_8_" x="704" y="0" fill="url(#Rectangle-1384_25_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_26_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1749.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_9_" x="792" y="0" fill="url(#Rectangle-1384_26_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_27_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1837.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_10_" x="880" y="0" fill="url(#Rectangle-1384_27_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_28_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 1925.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_11_" x="968" y="0" fill="url(#Rectangle-1384_28_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_29_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 2013.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_12_" x="1056" y="0" fill="url(#Rectangle-1384_29_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_30_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 2101.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_13_" x="1144" y="0" fill="url(#Rectangle-1384_30_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_31_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 2189.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_14_" x="1232" y="0" fill="url(#Rectangle-1384_31_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_32_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 2277.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_15_" x="1320" y="0" fill="url(#Rectangle-1384_32_)" width="2" height="561"/>
+						
+							<linearGradient id="Rectangle-1384_33_" gradientUnits="userSpaceOnUse" x1="-478.3" y1="601.4299" x2="-478.3" y2="600.9456" gradientTransform="matrix(2 0 0 -561 2376.5999 337684.625)">
+							<stop  offset="0" style="stop-color:#F6F6F6"/>
+							<stop  offset="1" style="stop-color:#FFFFFF"/>
+						</linearGradient>
+						<rect id="Rectangle-1384_16_" x="1419" y="0" fill="url(#Rectangle-1384_33_)" width="2" height="561"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Group-20" transform="translate(85.000000, 16.000000)">
+			<g id="Oval-15" display="none">
+				<g display="inline">
+					<circle id="path-4" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="5" cy="417" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-4_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="5" cy="417" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_1_">
+				<g>
+					<circle id="path-5" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="93" cy="413" r="5"/>
+				</g>
+				<g>
+					<circle id="path-5_1_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="93" cy="413" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_2_" display="none">
+				<g display="inline">
+					<circle id="path-6" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="181" cy="330" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-6_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="181" cy="330" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_3_" display="none">
+				<g display="inline">
+					<circle id="path-7" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="269" cy="311" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-7_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="269" cy="311" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_4_" display="none">
+				<g display="inline">
+					<circle id="path-8" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="357" cy="323" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-8_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="357" cy="323" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_5_" display="none">
+				<g display="inline">
+					<circle id="path-9" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="445" cy="313" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-9_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="445" cy="313" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_6_" display="none">
+				<g display="inline">
+					<circle id="path-10" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="533" cy="268" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-10_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="533" cy="268" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_7_" display="none">
+				<g display="inline">
+					<circle id="path-11" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="621" cy="259" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-11_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="621" cy="259" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_8_" display="none">
+				<g display="inline">
+					<circle id="path-12" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="709" cy="265" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-12_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="709" cy="265" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_9_" display="none">
+				<g display="inline">
+					<circle id="path-13" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="797" cy="233" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-13_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="797" cy="233" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_10_" display="none">
+				<g display="inline">
+					<circle id="path-14" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="885" cy="178" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-14_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="885" cy="178" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_11_" display="none">
+				<g display="inline">
+					<circle id="path-15" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="973" cy="161" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-15_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="973" cy="161" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_12_" display="none">
+				<g display="inline">
+					<circle id="path-16" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="1061" cy="169" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-16_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="1061" cy="169" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_13_" display="none">
+				<g display="inline">
+					<circle id="path-17" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="1149" cy="164" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-17_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="1149" cy="164" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_14_" display="none">
+				<g display="inline">
+					<circle id="path-18" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="1237" cy="138" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-18_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="1237" cy="138" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_15_" display="none">
+				<g display="inline">
+					<circle id="path-19" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="1325" cy="68" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-19_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="1325" cy="68" r="5"/>
+				</g>
+			</g>
+			<g id="Oval-15_16_" display="none">
+				<g display="inline">
+					<circle id="path-20" fill="#FFFFFF" stroke="#52C8FC" stroke-width="10" stroke-opacity="0.2849" cx="1424" cy="5" r="5"/>
+				</g>
+				<g display="inline">
+					<circle id="path-20_1_" fill="none" stroke="#059DDF" stroke-width="2" cx="1424" cy="5" r="5"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Oval-15_17_">
+	<g>
+		<circle id="path-5_4_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="354" cy="342.75" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_2_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="354" cy="342.75" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_18_">
+	<g>
+		
+			<circle id="path-5_7_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="529.75" cy="350.75" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_6_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="529.75" cy="350.75" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_19_">
+	<g>
+		<circle id="path-5_10_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="706" cy="287" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_9_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="706" cy="287" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_20_">
+	<g>
+		
+			<circle id="path-5_13_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="882.25" cy="247.75" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_12_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="882.25" cy="247.75" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_21_">
+	<g>
+		
+			<circle id="path-5_16_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="1058" cy="179.75" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_15_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="1058" cy="179.75" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_22_">
+	<g>
+		
+			<circle id="path-5_19_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="1261.5" cy="189.667" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_18_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="1261.5" cy="189.667" r="5"/>
+	</g>
+</g>
+<g id="Oval-15_23_">
+	<g>
+		<circle id="path-5_22_" fill="#FFFFFF" stroke="#00A881" stroke-width="10" stroke-opacity="0.2849" cx="1410" cy="79.75" r="5"/>
+	</g>
+	<g>
+		<circle id="path-5_21_" fill="#FFFFFF" stroke="#00A881" stroke-width="2" cx="1410" cy="79.75" r="5"/>
+	</g>
+</g>
+</svg>

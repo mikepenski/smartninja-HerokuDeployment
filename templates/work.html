@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section id="header-slider">
+
+    <div class="slider">
+
+        <article class="slide">
+
+            <div class="container h-100">
+
+                <div class="row h-100">
+
+                    <div class="col-lg-8 align-self-center mx-auto text-left content">
+
+                        <h1 class="headline">Work</h1>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr,<br>
+                            sed diam nonumy eirmod tempor invidunt ut labore et dolore
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <img src="{{ url_for('static', filename='images/header-work.jpg') }}" />
+
+        </article>
+
+    </div>
+
+    <div class="slider-shape-divider">
+        <svg height="150" preserveAspectRatio="none" viewBox="0 0 1450 160" width="1450" xmlns="http://www.w3.org/2000/svg" class="reflect"><path d="M0 160V0c552.762 0 829.144 157.977 1450 157.977V160z" fill="#fff" /></svg>
+    </div>
+
+</section>
+
+<section id="work">
+    <div class="container">
+
+        <div class="text-center py-5">
+            <h3 class="headline">Work</h3>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-1">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 1</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-2">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 2</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-3">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 3</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-4">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 4</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-5">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 5</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-6">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 6</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-7">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 7</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="projekt projekt-8">
+                    <a href="#"></a>
+                    <img src="{{ url_for('static', filename='images/projekt.jpg') }}" class="lazy" />
+                    <div class="title py-2">Projekt 8</div>
+                    <div class="more">Mehr erfahren</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+{% endblock content %}
